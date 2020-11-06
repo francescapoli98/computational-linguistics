@@ -1,0 +1,82 @@
+
+	Numero di frasi e token in ogni corpus:
+
+POSITIVE:
+Numero di frasi:	531 	Numero di token:	5310 
+NEGATIVE:
+Numero di frasi:	355 	Numero di token:	5334 
+
+Il corpus Positive presenta un numero maggiore di frasi
+
+	Numero medio di token per frase e di caratteri per token in ogni corpus:
+
+
+POSITIVE:
+Numero medio di token per frase: 10.0 	Numero medio di caratteri per token: 3.95254237288 
+NEGATIVE:
+Numero medio di token per frase: 15.0253521127 	Numero medio di caratteri per token: 3.8329583802 
+
+Il corpus Negative ha un maggior numero medio di token per frase
+Il corpus Positive presenta un maggior numero medio di caratteri per token
+
+	Numero medio di sostantivi, aggettivi e avverbi in ogni corpus:
+
+
+POSITIVE:
+Media di sostantivi per frase:	1.88700564972 	Media di aggettivi per frase:	0.971751412429 	Media di avverbi per frase:	1.0 
+NEGATIVE:
+Media di sostantivi per frase:	2.9323943662 	Media di aggettivi per frase:	0.994366197183 	Media di avverbi per frase:	1.18591549296
+
+	Densità lessicale:
+POSITIVE:	0.446113651208 
+NEGATIVE:	0.374613003096 
+
+Il corpus Positive ha una densità lessicale maggiore
+
+	Vocabolario e TTR per porzioni incrementali:
+POSITIVE:
+
+Porzione di 1000 token: 
+Vocabolario:	403 	TTR:	0.403 
+
+Porzione di 2000 token:
+Vocabolario:	627 	TTR:	0.3135 
+
+Porzione di 3000 token:
+Vocabolario:	803 	TTR:	0.267666666667 
+
+Porzione di 4000 token:
+Vocabolario:	959 	TTR:	0.23975 
+
+Porzione di 5000:
+Vocabolario:	1082 	TTR:	0.2164 
+
+Vocabolario del testo in totale:	1125 	TTR del testo in totale:	0.21186440678 
+
+NEGATIVE:
+Porzione di 1000 token:
+Vocabolario:	390 	TTR:	0.39 
+
+Porzione di 2000 token:
+Vocabolario:	683 	TTR: 0.3415 
+
+Porzione di 3000 token:
+Vocabolario:	902 	TTR:	0.300666666667 
+
+Porzione di 4000 token:
+Vocabolario:	1123 	TTR:	0.28075 
+
+Porzione di 5000 token:
+Vocabolario:	1332 	TTR:	0.2664 
+
+Vocabolario del testo in totale:	1372 	TTR del testo in totale:	0.257217847769 
+
+
+	Classi di frequenza v3, v6 e v9 nei due corpora:
+
+
+POSITIVE: 
+|V3|:	102 	|V6|:	18 	|V9|:	11
+
+NEGATIVE: 
+|V3|:	101 	|V6|:	25 	|V9|:	16

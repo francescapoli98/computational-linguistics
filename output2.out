@@ -1,0 +1,1036 @@
+
+	I primi 20 token più frequenti:
+POSITIVE:
+
+Token:	and 
+Frequenza:	176 
+
+Token:	I 
+Frequenza:	137 
+
+Token:	the 
+Frequenza:	134 
+
+Token:	it 
+Frequenza:	111 
+
+Token:	a 
+Frequenza:	92 
+
+Token:	to 
+Frequenza:	90 
+
+Token:	is 
+Frequenza:	75 
+
+Token:	for 
+Frequenza:	68 
+
+Token:	my 
+Frequenza:	62 
+
+Token:	was 
+Frequenza:	59 
+
+Token:	in 
+Frequenza:	57 
+
+Token:	so 
+Frequenza:	56 
+
+Token:	this 
+Frequenza:	52 
+
+Token:	of 
+Frequenza:	52 
+
+Token:	you 
+Frequenza:	50 
+
+Token:	with 
+Frequenza:	40 
+
+Token:	very 
+Frequenza:	39 
+
+Token:	as 
+Frequenza:	38 
+
+Token:	love 
+Frequenza:	33 
+
+Token:	It 
+Frequenza:	33 
+
+
+NEGATIVE:
+
+Token:	the 
+Frequenza:	198 
+
+Token:	I 
+Frequenza:	163 
+
+Token:	and 
+Frequenza:	129 
+
+Token:	to 
+Frequenza:	107 
+
+Token:	a 
+Frequenza:	101 
+
+Token:	it 
+Frequenza:	82 
+
+Token:	of 
+Frequenza:	68 
+
+Token:	my 
+Frequenza:	59 
+
+Token:	n't 
+Frequenza:	57 
+
+Token:	was 
+Frequenza:	57 
+
+Token:	is 
+Frequenza:	55 
+
+Token:	not 
+Frequenza:	52 
+
+Token:	in 
+Frequenza:	50 
+
+Token:	this 
+Frequenza:	47 
+
+Token:	but 
+Frequenza:	46 
+
+Token:	on 
+Frequenza:	44 
+
+Token:	for 
+Frequenza:	43 
+
+Token:	have 
+Frequenza:	40 
+
+Token:	that 
+Frequenza:	35 
+
+Token:	with 
+Frequenza:	32 
+
+
+	I primi 20 sostantivi più frequenti:
+POSITIVE:
+
+Sostantivo:	Thank 
+Frequenza:	33 
+
+Sostantivo:	quality 
+Frequenza:	28 
+
+Sostantivo:	gift 
+Frequenza:	19 
+
+Sostantivo:	time 
+Frequenza:	15 
+
+Sostantivo:	size 
+Frequenza:	14 
+
+Sostantivo:	Great 
+Frequenza:	14 
+
+Sostantivo:	item 
+Frequenza:	13 
+
+Sostantivo:	service 
+Frequenza:	12 
+
+Sostantivo:	piece 
+Frequenza:	12 
+
+Sostantivo:	bag 
+Frequenza:	11 
+
+Sostantivo:	way 
+Frequenza:	10 
+
+Sostantivo:	shop 
+Frequenza:	10 
+
+Sostantivo:	shipping 
+Frequenza:	10 
+
+Sostantivo:	work 
+Frequenza:	9 
+
+Sostantivo:	Christmas 
+Frequenza:	8 
+
+Sostantivo:	product 
+Frequenza:	8 
+
+Sostantivo:	order 
+Frequenza:	8 
+
+Sostantivo:	seller 
+Frequenza:	8 
+
+Sostantivo:	communication 
+Frequenza:	8 
+
+Sostantivo:	customer 
+Frequenza:	7 
+
+
+NEGATIVE:
+
+Sostantivo:	phone 
+Frequenza:	18 
+
+Sostantivo:	item 
+Frequenza:	17 
+
+Sostantivo:	product 
+Frequenza:	17 
+
+Sostantivo:	case 
+Frequenza:	15 
+
+Sostantivo:	money 
+Frequenza:	13 
+
+Sostantivo:	quality 
+Frequenza:	12 
+
+Sostantivo:	seller 
+Frequenza:	12 
+
+Sostantivo:	camera 
+Frequenza:	11 
+
+Sostantivo:	app 
+Frequenza:	9 
+
+Sostantivo:	size 
+Frequenza:	8 
+
+Sostantivo:	nails 
+Frequenza:	8 
+
+Sostantivo:	star 
+Frequenza:	8 
+
+Sostantivo:	weeks 
+Frequenza:	7 
+
+Sostantivo:	way 
+Frequenza:	7 
+
+Sostantivo:	device 
+Frequenza:	7 
+
+Sostantivo:	shoe 
+Frequenza:	6 
+
+Sostantivo:	reviews 
+Frequenza:	6 
+
+Sostantivo:	day 
+Frequenza:	6 
+
+Sostantivo:	buttons 
+Frequenza:	6 
+
+Sostantivo:	games 
+Frequenza:	6 
+
+
+	I primi 20 aggettivi più frequenti:
+POSITIVE:
+
+Aggettivo:	great 
+Frequenza:	25 
+
+Aggettivo:	beautiful 
+Frequenza:	24 
+
+Aggettivo:	perfect 
+Frequenza:	15 
+
+Aggettivo:	amazing 
+Frequenza:	12 
+
+Aggettivo:	good 
+Frequenza:	11 
+
+Aggettivo:	little 
+Frequenza:	11 
+
+Aggettivo:	nice 
+Frequenza:	11 
+
+Aggettivo:	much 
+Frequenza:	10 
+
+Aggettivo:	happy 
+Frequenza:	10 
+
+Aggettivo:	unique 
+Frequenza:	9 
+
+Aggettivo:	Excellent 
+Frequenza:	9 
+
+Aggettivo:	new 
+Frequenza:	8 
+
+Aggettivo:	quick 
+Frequenza:	8 
+
+Aggettivo:	cute 
+Frequenza:	7 
+
+Aggettivo:	pleased 
+Frequenza:	7 
+
+Aggettivo:	super 
+Frequenza:	7 
+
+Aggettivo:	lovely 
+Frequenza:	7 
+
+Aggettivo:	wonderful 
+Frequenza:	6 
+
+Aggettivo:	special 
+Frequenza:	6 
+
+Aggettivo:	worth 
+Frequenza:	5 
+
+
+NEGATIVE:
+
+Aggettivo:	disappointed 
+Frequenza:	12 
+
+Aggettivo:	bad 
+Frequenza:	11 
+
+Aggettivo:	different 
+Frequenza:	9 
+
+Aggettivo:	less 
+Frequenza:	5 
+
+Aggettivo:	cheap 
+Frequenza:	5 
+
+Aggettivo:	same 
+Frequenza:	5 
+
+Aggettivo:	hard 
+Frequenza:	5 
+
+Aggettivo:	great 
+Frequenza:	5 
+
+Aggettivo:	black 
+Frequenza:	4 
+
+Aggettivo:	horrible 
+Frequenza:	4 
+
+Aggettivo:	worst 
+Frequenza:	4 
+
+Aggettivo:	old 
+Frequenza:	4 
+
+Aggettivo:	full 
+Frequenza:	4 
+
+Aggettivo:	last 
+Frequenza:	4 
+
+Aggettivo:	first 
+Frequenza:	4 
+
+Aggettivo:	least 
+Frequenza:	4 
+
+Aggettivo:	poor 
+Frequenza:	4 
+
+Aggettivo:	Horrible 
+Frequenza:	3 
+
+Aggettivo:	better 
+Frequenza:	3 
+
+Aggettivo:	big 
+Frequenza:	3 
+
+
+	I 20 bigrammi di token più frequenti, esclusi punteggiatura, articoli e congiunzioni:
+POSITIVE:
+
+Chiave:	(('Thank', 'NNP'), ('you', 'PRP')) 
+Valore:	32 
+
+Chiave:	(('I', 'PRP'), ('love', 'VBP')) 
+Valore:	13 
+
+Chiave:	(('it', 'PRP'), ("'s", 'VBZ')) 
+Valore:	12 
+
+Chiave:	(('I', 'PRP'), ("'m", 'VBP')) 
+Valore:	11 
+
+Chiave:	(('I', 'PRP'), ('am', 'VBP')) 
+Valore:	10 
+
+Chiave:	(('you', 'PRP'), ('so', 'RB')) 
+Valore:	9 
+
+Chiave:	(('so', 'RB'), ('much', 'JJ')) 
+Valore:	8 
+
+Chiave:	(('so', 'RB'), ('much', 'RB')) 
+Valore:	8 
+
+Chiave:	(('it', 'PRP'), ('was', 'VBD')) 
+Valore:	8 
+
+Chiave:	(('to', 'TO'), ('get', 'VB')) 
+Valore:	7 
+
+Chiave:	(('very', 'RB'), ('much', 'RB')) 
+Valore:	7 
+
+Chiave:	(('It', 'PRP'), ('is', 'VBZ')) 
+Valore:	7 
+
+Chiave:	(('Love', 'VB'), ('it', 'PRP')) 
+Valore:	7 
+
+Chiave:	(('It', 'PRP'), ("'s", 'VBZ')) 
+Valore:	7 
+
+Chiave:	(('well', 'RB'), ('packaged', 'VBN')) 
+Valore:	6 
+
+Chiave:	(('It', 'PRP'), ('was', 'VBD')) 
+Valore:	6 
+
+Chiave:	(('customer', 'NN'), ('service', 'NN')) 
+Valore:	6 
+
+Chiave:	(('I', 'PRP'), ('will', 'MD')) 
+Valore:	6 
+
+Chiave:	(('is', 'VBZ'), ('just', 'RB')) 
+Valore:	5 
+
+Chiave:	(('I', 'PRP'), ("'ve", 'VBP')) 
+Valore:	5 
+
+
+NEGATIVE:
+
+Chiave:	(('it', 'PRP'), ('was', 'VBD')) 
+Valore:	12 
+
+Chiave:	(('does', 'VBZ'), ("n't", 'RB')) 
+Valore:	12 
+
+Chiave:	(('I', 'PRP'), ('was', 'VBD')) 
+Valore:	11 
+
+Chiave:	(('I', 'PRP'), ('have', 'VBP')) 
+Valore:	11 
+
+Chiave:	(('my', 'PRP$'), ('phone', 'NN')) 
+Valore:	9 
+
+Chiave:	(('it', 'PRP'), ("'s", 'VBZ')) 
+Valore:	9 
+
+Chiave:	(('did', 'VBD'), ("n't", 'RB')) 
+Valore:	8 
+
+Chiave:	(('I', 'PRP'), ("'ve", 'VBP')) 
+Valore:	8 
+
+Chiave:	(('when', 'WRB'), ('I', 'PRP')) 
+Valore:	7 
+
+Chiave:	(('I', 'PRP'), ('bought', 'VBD')) 
+Valore:	7 
+
+Chiave:	(('was', 'VBD'), ('very', 'RB')) 
+Valore:	6 
+
+Chiave:	(('do', 'VBP'), ("n't", 'RB')) 
+Valore:	6 
+
+Chiave:	(('one', 'CD'), ('star', 'NN')) 
+Valore:	6 
+
+Chiave:	(('I', 'PRP'), ('could', 'MD')) 
+Valore:	6 
+
+Chiave:	(('I', 'PRP'), ('would', 'MD')) 
+Valore:	6 
+
+Chiave:	(('they', 'PRP'), ('were', 'VBD')) 
+Valore:	6 
+
+Chiave:	(('does', 'VBZ'), ('not', 'RB')) 
+Valore:	6 
+
+Chiave:	(('did', 'VBD'), ('not', 'RB')) 
+Valore:	6 
+
+Chiave:	(('to', 'TO'), ('be', 'VB')) 
+Valore:	6 
+
+Chiave:	(("n't", 'RB'), ('even', 'RB')) 
+Valore:	6 
+
+
+I primi 10 Part-Of-Speech più frequenti:
+POSITIVE:
+
+POS:	NN 	Frequenza:	714
+POS:	. 	Frequenza:	577
+POS:	RB 	Frequenza:	509
+POS:	JJ 	Frequenza:	493
+POS:	DT 	Frequenza:	402
+POS:	PRP 	Frequenza:	394
+POS:	IN 	Frequenza:	376
+POS:	CC 	Frequenza:	205
+POS:	VBD 	Frequenza:	190
+POS:	VB 	Frequenza:	159
+
+NEGATIVE:
+
+POS:	NN 	Frequenza:	735
+POS:	DT 	Frequenza:	482
+POS:	IN 	Frequenza:	475
+POS:	RB 	Frequenza:	387
+POS:	PRP 	Frequenza:	374
+POS:	. 	Frequenza:	367
+POS:	JJ 	Frequenza:	325
+POS:	VBD 	Frequenza:	251
+POS:	VB 	Frequenza:	238
+POS:	CC 	Frequenza:	194
+
+	I 10 bigrammi di POS più frequenti:
+POSITIVE:
+
+Chiave:	('NN', '.') 	Valore:	204
+Chiave:	('JJ', 'NN') 	Valore:	201
+Chiave:	('DT', 'NN') 	Valore:	195
+Chiave:	('RB', 'JJ') 	Valore:	126
+Chiave:	('IN', 'DT') 	Valore:	121
+Chiave:	('.', 'PRP') 	Valore:	110
+Chiave:	('.', 'NNP') 	Valore:	108
+Chiave:	('NN', 'IN') 	Valore:	107
+Chiave:	('DT', 'JJ') 	Valore:	94
+Chiave:	('.', 'RB') 	Valore:	87
+
+NEGATIVE:
+
+Chiave:	('DT', 'NN') 	Valore:	260
+Chiave:	('IN', 'DT') 	Valore:	177
+Chiave:	('NN', '.') 	Valore:	142
+Chiave:	('JJ', 'NN') 	Valore:	128
+Chiave:	('PRP', 'VBD') 	Valore:	127
+Chiave:	('NN', 'IN') 	Valore:	123
+Chiave:	('.', 'PRP') 	Valore:	104
+Chiave:	('RB', 'VB') 	Valore:	88
+Chiave:	('DT', 'JJ') 	Valore:	88
+Chiave:	('PRP', 'VBP') 	Valore:	82
+
+	I primi 10 trigrammi di POS in ordine di frequenza decrescente:
+POSITIVE:
+
+('JJ', 'NN', '.') 	occorrenza:	77
+('IN', 'DT', 'NN') 	occorrenza:	75
+('DT', 'JJ', 'NN') 	occorrenza:	67
+('NN', '.', 'PRP') 	occorrenza:	49
+('.', 'RB', 'JJ') 	occorrenza:	44
+('.', 'PRP', 'VBP') 	occorrenza:	42
+('NN', 'IN', 'DT') 	occorrenza:	37
+('NN', '.', 'NNP') 	occorrenza:	37
+('DT', 'NN', 'IN') 	occorrenza:	36
+('DT', 'NN', '.') 	occorrenza:	35
+
+NEGATIVE:
+
+('IN', 'DT', 'NN') 	occorrenza:	101
+('DT', 'JJ', 'NN') 	occorrenza:	67
+('DT', 'NN', 'IN') 	occorrenza:	52
+('NN', 'IN', 'DT') 	occorrenza:	45
+('DT', 'NN', '.') 	occorrenza:	43
+('.', 'PRP', 'VBD') 	occorrenza:	43
+('NN', '.', 'PRP') 	occorrenza:	37
+('IN', 'DT', 'JJ') 	occorrenza:	34
+('.', 'PRP', 'VBP') 	occorrenza:	33
+('DT', 'NN', 'NN') 	occorrenza:	29
+
+
+	I primi 20 bigrammi Aggettivo-Sostantivo dei corpora:
+
+Per frequenza massima:
+POSITIVE:
+
+
+Bigramma:	(('good', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	5 
+Aggettivo: ('good', 'JJ') 	Frequenza assoluta: 11 	Nome: ('quality', 'NN') 	Frequenza assoluta: 28 
+
+
+Bigramma:	(('high', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	4 
+Aggettivo: ('high', 'JJ') 	Frequenza assoluta: 4 	Nome: ('quality', 'NN') 	Frequenza assoluta: 28 
+
+
+Bigramma:	(('Excellent', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	3 
+Aggettivo: ('Excellent', 'JJ') 	Frequenza assoluta: 9 	Nome: ('quality', 'NN') 	Frequenza assoluta: 28 
+
+
+Bigramma:	(('Excellent', 'JJ'), ('customer', 'NN')) 	Frequenza del bigramma:	3 
+Aggettivo: ('Excellent', 'JJ') 	Frequenza assoluta: 9 	Nome: ('customer', 'NN') 	Frequenza assoluta: 7 
+
+
+Bigramma:	(('perfect', 'JJ'), ('size', 'NN')) 	Frequenza del bigramma:	3 
+Aggettivo: ('perfect', 'JJ') 	Frequenza assoluta: 15 	Nome: ('size', 'NN') 	Frequenza assoluta: 14 
+
+
+Bigramma:	(('quick', 'JJ'), ('delivery', 'NN')) 	Frequenza del bigramma:	3 
+Aggettivo: ('quick', 'JJ') 	Frequenza assoluta: 8 	Nome: ('delivery', 'NN') 	Frequenza assoluta: 7 
+
+
+Bigramma:	(('real', 'JJ'), ('life', 'NN')) 	Frequenza del bigramma:	3 
+Aggettivo: ('real', 'JJ') 	Frequenza assoluta: 5 	Nome: ('life', 'NN') 	Frequenza assoluta: 3 
+
+
+Bigramma:	(('great', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('great', 'JJ') 	Frequenza assoluta: 25 	Nome: ('quality', 'NN') 	Frequenza assoluta: 28 
+
+
+Bigramma:	(('great', 'JJ'), ('product', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('great', 'JJ') 	Frequenza assoluta: 25 	Nome: ('product', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('Great', 'JJ'), ('communication', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('Great', 'JJ') 	Frequenza assoluta: 5 	Nome: ('communication', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('happy', 'JJ'), ('purchase', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('happy', 'JJ') 	Frequenza assoluta: 10 	Nome: ('purchase', 'NN') 	Frequenza assoluta: 5 
+
+
+Bigramma:	(('perfect', 'JJ'), ('way', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('perfect', 'JJ') 	Frequenza assoluta: 15 	Nome: ('way', 'NN') 	Frequenza assoluta: 10 
+
+
+Bigramma:	(('great', 'JJ'), ('gift', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('great', 'JJ') 	Frequenza assoluta: 25 	Nome: ('gift', 'NN') 	Frequenza assoluta: 19 
+
+
+Bigramma:	(('fast', 'JJ'), ('shipping', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('fast', 'JJ') 	Frequenza assoluta: 4 	Nome: ('shipping', 'NN') 	Frequenza assoluta: 10 
+
+
+Bigramma:	(('great', 'JJ'), ('communication', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('great', 'JJ') 	Frequenza assoluta: 25 	Nome: ('communication', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('special', 'JJ'), ('gift', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('special', 'JJ') 	Frequenza assoluta: 6 	Nome: ('gift', 'NN') 	Frequenza assoluta: 19 
+
+
+Bigramma:	(('wonderful', 'JJ'), ('product', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('wonderful', 'JJ') 	Frequenza assoluta: 6 	Nome: ('product', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('worth', 'JJ'), ('Thank', 'NNP')) 	Frequenza del bigramma:	2 
+Aggettivo: ('worth', 'JJ') 	Frequenza assoluta: 5 	Nome: ('Thank', 'NNP') 	Frequenza assoluta: 32 
+
+
+Bigramma:	(('beautiful', 'JJ'), ('piece', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('beautiful', 'JJ') 	Frequenza assoluta: 24 	Nome: ('piece', 'NN') 	Frequenza assoluta: 12 
+
+
+Bigramma:	(('perfect', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('perfect', 'JJ') 	Frequenza assoluta: 15 	Nome: ('quality', 'NN') 	Frequenza assoluta: 28 
+
+
+NEGATIVE:
+
+
+Bigramma:	(('bad', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	3 
+Aggettivo: ('bad', 'JJ') 	Frequenza assoluta: 11 	Nome: ('quality', 'NN') 	Frequenza assoluta: 12 
+
+
+Bigramma:	(('more', 'JJR'), ('months', 'NNS')) 	Frequenza del bigramma:	2 
+Aggettivo: ('more', 'JJR') 	Frequenza assoluta: 3 	Nome: ('months', 'NNS') 	Frequenza assoluta: 5 
+
+
+Bigramma:	(('hard', 'JJ'), ('back', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('hard', 'JJ') 	Frequenza assoluta: 5 	Nome: ('back', 'NN') 	Frequenza assoluta: 4 
+
+
+Bigramma:	(('disappointed', 'JJ'), ('party', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('disappointed', 'JJ') 	Frequenza assoluta: 12 	Nome: ('party', 'NN') 	Frequenza assoluta: 4 
+
+
+Bigramma:	(('less', 'JJR'), ('star', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('less', 'JJR') 	Frequenza assoluta: 5 	Nome: ('star', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('many', 'JJ'), ('case', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('many', 'JJ') 	Frequenza assoluta: 3 	Nome: ('case', 'NN') 	Frequenza assoluta: 15 
+
+
+Bigramma:	(('worst', 'JJS'), ('purchase', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('worst', 'JJS') 	Frequenza assoluta: 4 	Nome: ('purchase', 'NN') 	Frequenza assoluta: 5 
+
+
+Bigramma:	(('disappointed', 'JJ'), ('quality', 'NN')) 	Frequenza del bigramma:	2 
+Aggettivo: ('disappointed', 'JJ') 	Frequenza assoluta: 12 	Nome: ('quality', 'NN') 	Frequenza assoluta: 12 
+
+
+Bigramma:	(('worst', 'JJS'), ('product', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('worst', 'JJS') 	Frequenza assoluta: 4 	Nome: ('product', 'NN') 	Frequenza assoluta: 17 
+
+
+Bigramma:	(('disappointed', 'JJ'), ('pairs', 'NNS')) 	Frequenza del bigramma:	1 
+Aggettivo: ('disappointed', 'JJ') 	Frequenza assoluta: 12 	Nome: ('pairs', 'NNS') 	Frequenza assoluta: 3 
+
+
+Bigramma:	(('full', 'JJ'), ('color', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('full', 'JJ') 	Frequenza assoluta: 4 	Nome: ('color', 'NN') 	Frequenza assoluta: 4 
+
+
+Bigramma:	(('able', 'JJ'), ('size', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('able', 'JJ') 	Frequenza assoluta: 3 	Nome: ('size', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('different', 'JJ'), ('device', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('different', 'JJ') 	Frequenza assoluta: 9 	Nome: ('device', 'NN') 	Frequenza assoluta: 7 
+
+
+Bigramma:	(('better', 'JJR'), ('case', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('better', 'JJR') 	Frequenza assoluta: 3 	Nome: ('case', 'NN') 	Frequenza assoluta: 15 
+
+
+Bigramma:	(('disappointed', 'JJ'), ('star', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('disappointed', 'JJ') 	Frequenza assoluta: 12 	Nome: ('star', 'NN') 	Frequenza assoluta: 8 
+
+
+Bigramma:	(('bad', 'JJ'), ('NOT', 'NNP')) 	Frequenza del bigramma:	1 
+Aggettivo: ('bad', 'JJ') 	Frequenza assoluta: 11 	Nome: ('NOT', 'NNP') 	Frequenza assoluta: 5 
+
+
+Bigramma:	(('low', 'JJ'), ('purchase', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('low', 'JJ') 	Frequenza assoluta: 3 	Nome: ('purchase', 'NN') 	Frequenza assoluta: 5 
+
+
+Bigramma:	(('flimsy', 'JJ'), ('edges', 'NNS')) 	Frequenza del bigramma:	1 
+Aggettivo: ('flimsy', 'JJ') 	Frequenza assoluta: 3 	Nome: ('edges', 'NNS') 	Frequenza assoluta: 3 
+
+
+Bigramma:	(('same', 'JJ'), ('price', 'NN')) 	Frequenza del bigramma:	1 
+Aggettivo: ('same', 'JJ') 	Frequenza assoluta: 5 	Nome: ('price', 'NN') 	Frequenza assoluta: 3 
+
+
+Bigramma:	(('few', 'JJ'), ('months', 'NNS')) 	Frequenza del bigramma:	1 
+Aggettivo: ('few', 'JJ') 	Frequenza assoluta: 3 	Nome: ('months', 'NNS') 	Frequenza assoluta: 5 
+
+Per probabilità congiunta massima:
+POSITIVE:
+
+Bigramma:	(('good', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.000941619585687 
+
+Bigramma:	(('high', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.00075329566855 
+
+Bigramma:	(('quick', 'JJ'), ('delivery', 'NN')) 
+Probabilità congiunta:	0.000564971751412 
+
+Bigramma:	(('perfect', 'JJ'), ('size', 'NN')) 
+Probabilità congiunta:	0.000564971751412 
+
+Bigramma:	(('Excellent', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.000564971751412 
+
+Bigramma:	(('real', 'JJ'), ('life', 'NN')) 
+Probabilità congiunta:	0.000564971751412 
+
+Bigramma:	(('Excellent', 'JJ'), ('customer', 'NN')) 
+Probabilità congiunta:	0.000564971751412 
+
+Bigramma:	(('great', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('great', 'JJ'), ('product', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('Great', 'JJ'), ('communication', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('great', 'JJ'), ('gift', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('fast', 'JJ'), ('shipping', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('perfect', 'JJ'), ('way', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('great', 'JJ'), ('communication', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('special', 'JJ'), ('gift', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('beautiful', 'JJ'), ('piece', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('wonderful', 'JJ'), ('product', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('worth', 'JJ'), ('Thank', 'NNP')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('perfect', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+Bigramma:	(('happy', 'JJ'), ('purchase', 'NN')) 
+Probabilità congiunta:	0.000376647834275 
+
+
+NEGATIVE:
+
+Bigramma:	(('bad', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.000562429696288 
+
+Bigramma:	(('more', 'JJR'), ('months', 'NNS')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('hard', 'JJ'), ('back', 'NN')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('disappointed', 'JJ'), ('party', 'NN')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('less', 'JJR'), ('star', 'NN')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('many', 'JJ'), ('case', 'NN')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('worst', 'JJS'), ('purchase', 'NN')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('disappointed', 'JJ'), ('quality', 'NN')) 
+Probabilità congiunta:	0.000374953130859 
+
+Bigramma:	(('worst', 'JJS'), ('product', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('disappointed', 'JJ'), ('pairs', 'NNS')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('full', 'JJ'), ('color', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('able', 'JJ'), ('size', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('better', 'JJR'), ('case', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('disappointed', 'JJ'), ('star', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('bad', 'JJ'), ('NOT', 'NNP')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('low', 'JJ'), ('purchase', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('flimsy', 'JJ'), ('edges', 'NNS')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('same', 'JJ'), ('price', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('few', 'JJ'), ('months', 'NNS')) 
+Probabilità congiunta:	0.000187476565429 
+
+Bigramma:	(('old', 'JJ'), ('junk', 'NN')) 
+Probabilità congiunta:	0.000187476565429 
+
+Per forza associativa (attraverso la LMI):
+POSITIVE:
+
+Bigramma:	(('good', 'JJ'), ('quality', 'NN')) 
+Local Mutual Information:	32.1481884994 
+
+Bigramma:	(('high', 'JJ'), ('quality', 'NN')) 
+Local Mutual Information:	30.2685648945 
+
+Bigramma:	(('real', 'JJ'), ('life', 'NN')) 
+Local Mutual Information:	30.1577041524 
+
+Bigramma:	(('quick', 'JJ'), ('delivery', 'NN')) 
+Local Mutual Information:	24.4563111731 
+
+Bigramma:	(('Excellent', 'JJ'), ('customer', 'NN')) 
+Local Mutual Information:	23.9465361687 
+
+Bigramma:	(('perfect', 'JJ'), ('size', 'NN')) 
+Local Mutual Information:	18.7356393862 
+
+Bigramma:	(('Excellent', 'JJ'), ('quality', 'NN')) 
+Local Mutual Information:	17.9465361687 
+
+Bigramma:	(('Great', 'JJ'), ('communication', 'NN')) 
+Local Mutual Information:	16.1051361016 
+
+Bigramma:	(('fast', 'JJ'), ('shipping', 'NN')) 
+Local Mutual Information:	16.1051361016 
+
+Bigramma:	(('wonderful', 'JJ'), ('product', 'NN')) 
+Local Mutual Information:	15.5790672899 
+
+Bigramma:	(('happy', 'JJ'), ('purchase', 'NN')) 
+Local Mutual Information:	15.4612799118 
+
+Bigramma:	(('special', 'JJ'), ('gift', 'NN')) 
+Local Mutual Information:	13.0832122631 
+
+Bigramma:	(('perfect', 'JJ'), ('way', 'NN')) 
+Local Mutual Information:	12.2913549104 
+
+Bigramma:	(('worth', 'JJ'), ('Thank', 'NNP')) 
+Local Mutual Information:	12.1051361016 
+
+Bigramma:	(('great', 'JJ'), ('product', 'NN')) 
+Local Mutual Information:	11.4612799118 
+
+Bigramma:	(('great', 'JJ'), ('communication', 'NN')) 
+Local Mutual Information:	11.4612799118 
+
+Bigramma:	(('beautiful', 'JJ'), ('piece', 'NN')) 
+Local Mutual Information:	10.4091422885 
+
+Bigramma:	(('perfect', 'JJ'), ('quality', 'NN')) 
+Local Mutual Information:	9.32050125605 
+
+Bigramma:	(('cool', 'JJ'), ('colors', 'NNS')) 
+Local Mutual Information:	9.20457114425 
+
+Bigramma:	(('right', 'JJ'), ('couple', 'NN')) 
+Local Mutual Information:	9.20457114425 
+
+
+NEGATIVE:
+
+Bigramma:	(('bad', 'JJ'), ('quality', 'NN')) 
+Local Mutual Information:	20.7647114727 
+
+Bigramma:	(('more', 'JJR'), ('months', 'NNS')) 
+Local Mutual Information:	18.9482230279 
+
+Bigramma:	(('hard', 'JJ'), ('back', 'NN')) 
+Local Mutual Information:	18.1181480293 
+
+Bigramma:	(('worst', 'JJS'), ('purchase', 'NN')) 
+Local Mutual Information:	18.1181480293 
+
+Bigramma:	(('less', 'JJR'), ('star', 'NN')) 
+Local Mutual Information:	16.1181480293 
+
+Bigramma:	(('many', 'JJ'), ('case', 'NN')) 
+Local Mutual Information:	15.7782980264 
+
+Bigramma:	(('disappointed', 'JJ'), ('party', 'NN')) 
+Local Mutual Information:	15.5920792177 
+
+Bigramma:	(('disappointed', 'JJ'), ('quality', 'NN')) 
+Local Mutual Information:	12.4221542162 
+
+Bigramma:	(('flimsy', 'JJ'), ('edges', 'NNS')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('awful', 'JJ'), ('edges', 'NNS')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('smaller', 'JJR'), ('model', 'NN')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('whole', 'JJ'), ('idea', 'NN')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('little', 'JJ'), ('lights', 'NNS')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('better', 'JJR'), ('fabric', 'NN')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('Horrible', 'JJ'), ('experience', 'NN')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('many', 'JJ'), ('manufacturer', 'NN')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('big', 'JJ'), ('model', 'NN')) 
+Local Mutual Information:	9.21107710811 
+
+Bigramma:	(('old', 'JJ'), ('junk', 'NN')) 
+Local Mutual Information:	8.79603960883 
+
+Bigramma:	(('low', 'JJ'), ('side', 'NN')) 
+Local Mutual Information:	8.79603960883 
+
+Bigramma:	(('horrible', 'JJ'), ('cover', 'NN')) 
+Local Mutual Information:	8.79603960883 
+
+
+	Probabilità di frasi calcolata con le catene di Markov:
+
+POSITIVE:
+Frase con probabilità massima con catena di Markov di ordine 0:	['I', 'love', 'it', 'so', 'much', '!'] 	Probabilità:	8.14876405238e-12
+I 	Probabilità token:	0.0258003766478
+love 	Probabilità token:	0.00621468926554
+it 	Probabilità token:	0.0209039548023
+so 	Probabilità token:	0.0105461393597
+much 	Probabilità token:	0.00489642184557
+! 	Probabilità token:	0.0470809792844
+Frase con probabilità massima con catena di Markov di ordine 1:	['I', 'will', 'be', 'ordering', 'another', '.'] 	Probabilità:	9.80853735091e-06 
+
+
+NEGATIVE:
+Frase con la probabilità massima con catena di Markov di ordine 0:	['Do', "n't", 'buy', 'this', 'item', '!'] 	Probabilità:	5.7345793271e-15
+Do 	Probabilità:	0.000937382827147
+n't 	Probabilità:	0.0106861642295
+buy 	Probabilità:	0.00187476565429
+this 	Probabilità:	0.00881139857518
+item 	Probabilità:	0.0031871016123
+! 	Probabilità:	0.0108736407949
+
+Frase con probabilità massima con catena di Markov di ordine 1:	['Do', "n't", 'waste', 'your', 'money', '.'] 	Probabilità:	1.31102493307e-05 
+
