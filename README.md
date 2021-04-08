@@ -1,7 +1,7 @@
 # Progetto d'esame di Linguistica Computazionale - A.A. 2018/2019
 ## Obiettivo:
 Realizzazione di due programmi scritti in Python che utilizzino i moduli presenti in **Natural Language Toolkit (NLTK)** per leggere due file di testo in inglese, annotarli linguisticamente, confrontarli sulla base degli indici statistici richiesti ed estrarne le informazioni richieste.
-## Fasi realizzative:
+## Fasi di realizzazione:
 Creazione due corpora in inglese, di almeno 5000 token ciascuno, contenenti testi estratti rispettivamente da commenti positivi e negativi di prodotti o servizi venduti su siti on-line. I commenti sono distinti tra positivi e negativi sulla base delle meta informazioni che ogni sito predispone vicino ai commenti. I corpora sono salvati in due file di testo semplice in codifica utf-8. Sono sviluppati poi due programmi che prendono in input i due file da riga di comando, che li analizzano linguisticamente fino al Part-of-Speech tagging e che eseguono le operazioni richieste.
 
 ### Programma 1 - Confronto dei due testi sulla base delle seguenti informazioni statistiche:
@@ -29,6 +29,6 @@ Creazione due corpora in inglese, di almeno 5000 token ciascuno, contenenti test
 * le due frasi con probabilità più alta, dove la probabilità della prima frase deve essere calcolata attraverso un modello di Markov di ordine 0 mentre la seconda con un modello di Markov di ordine 1. I due modelli devono usare le distribuzioni di frequenza estratte dal corpus che contiene le frasi, le frasi devono essere lunghe minimo 6 e massimo 8 token e ogni token deve avere una frequenza maggiore di 2;
 
 ## Risultati del progetto:
-* i due file di testo contenenti i corpora (*positive reviews.txt* e *negative reviews.txt*);
+* i due file di testo contenenti i corpora (*positive_reviews.txt* e *negative_reviews.txt*);
 * i programmi commentati in Python 2.7 (*programma1.py* e *programma2.py*);
 * i file di testo contenenti l'output dei programmi (*output1.txt* e *output2.txt*).
