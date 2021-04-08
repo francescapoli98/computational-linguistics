@@ -29,6 +29,6 @@ Creazione due corpora in inglese, di almeno 5000 token ciascuno, contenenti test
 * le due frasi con probabilità più alta, dove la probabilità della prima frase deve essere calcolata attraverso un modello di Markov di ordine 0 mentre la seconda con un modello di Markov di ordine 1. I due modelli devono usare le distribuzioni di frequenza estratte dal corpus che contiene le frasi, le frasi devono essere lunghe minimo 6 e massimo 8 token e ogni token deve avere una frequenza maggiore di 2;
 
 ## Risultati del progetto:
-a. i due file di testo contenenti i corpora (*positive reviews.txt* e *negative reviews.txt*);
-b. i programmi commentati in Python 2.7 (*programma1.py* e *programma2.py*);
-c. i file di testo contenenti l'output dei programmi (*output1.txt* e *output2.txt*).
+* i due file di testo contenenti i corpora (*positive reviews.txt* e *negative reviews.txt*);
+* i programmi commentati in Python 2.7 (*programma1.py* e *programma2.py*);
+* i file di testo contenenti l'output dei programmi (*output1.txt* e *output2.txt*).
