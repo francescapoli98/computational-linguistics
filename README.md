@@ -35,7 +35,7 @@ Creazione due corpora in inglese, di almeno 5000 token ciascuno, contenenti test
 * i file di testo contenenti l'output dei programmi (*output1.txt* e *output2.txt*).
 
 ------
-🇬🇧
+
 # Computational Linguistics Examination Project - A.A. 2018/2019.
 ## Objective:
 Implementation of two programs written in Python using the modules present in **Natural Language Toolkit (NLTK)** to read two English text files, annotate them linguistically, compare them based on the required statistical indices and extract the required information.
